@@ -17,7 +17,7 @@ Welcome to the Online Based Doctor's Appointment System repository for the CSE47
   - ID: 24141078
 
 ## Features
-1. 1. Home Page / Dashboard
+1. Home Page / Dashboard
 2. Email Verification
 3. Password Reset
 4. Creation of Patient Panel and edit
