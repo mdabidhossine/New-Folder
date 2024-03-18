@@ -8,3 +8,4 @@ class Time extends Model
 {
     protected $guarded = [];
 }
+
