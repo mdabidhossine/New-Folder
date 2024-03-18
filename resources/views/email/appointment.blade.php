@@ -7,4 +7,5 @@ Dear {{ $mailData['name'] }},
 <br>
 Location: 66 Mohakhali, Dhaka-1212 , Bangladesh
 <br>
+
 Contact: 01723456890
