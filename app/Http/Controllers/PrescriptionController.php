@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 use App\Booking;
 use App\Prescription;
 
+
 class PrescriptionController extends Controller
 {
     public function index()
