@@ -1,4 +1,4 @@
-Dear {{ $mailData['name'] }}, 
+Dear {{ $mailData['name'] }},
 <p>Thank you for booking your appointment with our Hospital.</p>
 <p>The details of your appointment are below:</p>
 <p>Date: {{ $mailData['date'] }}</p>
