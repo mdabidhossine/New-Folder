@@ -1,4 +1,4 @@
-@if (count($bookings) > 0)
+@if (count($bookings) > 0) 
 
     <!-- Modal -->
     <div class="modal fade" id="exampleModal{{ $booking->user_id }}" tabindex="-1" aria-labelledby="exampleModalLabel"
